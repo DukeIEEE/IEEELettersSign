@@ -1,7 +1,7 @@
 # IEEE Infnity Mirror Letters Sign
 The purpose of this project is to build a set of infinity mirror letters with LEDS for the IEEE HQ window.
 
-![image](./images/initial-sketch.jpg)
+![image](./images/initial-sketch.JPG)
 
 Figure 1: The concept and initial calculations
 
