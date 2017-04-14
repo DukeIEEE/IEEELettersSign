@@ -1,5 +1,7 @@
-# IEEE Infnity Mirror Letters Sign
+# IEEE Infinity Mirror Letters Sign
 The purpose of this project is to build a set of infinity mirror letters with LEDS for the IEEE HQ window.
+
+4 laser cut boxes in the shape of the letters: 1x"I", 3x"E".
 
 ![image](./images/initial-sketch.JPG)
 
