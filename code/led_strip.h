@@ -13,7 +13,7 @@ class led_strip {
 
 public:
 
-    led_strip();
+    led_strip(int serial_pin);
 
     void add_row(int row, int *indicies);
 
