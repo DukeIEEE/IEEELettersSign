@@ -1,6 +1,7 @@
 body{
   margin: 0;
-  font-family: 'Muli'
+  font-family: 'Muli';
+  max-width: 100%;
 }
 #sign{
   margin: 0px;
