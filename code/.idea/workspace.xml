@@ -43,31 +43,10 @@
       <file leaf-file-name="led_strip.h" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/led_strip.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="174">
+              <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="e#82#101#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strandtest.ino" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Adafruit_NeoPixel-master/examples/strandtest/strandtest.ino">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1490374326000" expanded="false" signature="48:70" ph="..." />
-                <marker date="1490374326000" expanded="true" signature="1009:1315" ph="{...}" />
-                <marker date="1490374326000" expanded="false" signature="1147:1202" ph="..." />
-                <marker date="1490374326000" expanded="true" signature="1329:1865" ph="{...}" />
-                <marker date="1490374326000" expanded="true" signature="1958:2079" ph="{...}" />
-                <marker date="1490374326000" expanded="true" signature="2108:2290" ph="{...}" />
-                <marker date="1490374326000" expanded="true" signature="2401:2651" ph="{...}" />
-                <marker date="1490374326000" expanded="true" signature="2730:3143" ph="{...}" />
-                <marker date="1490374326000" expanded="true" signature="3236:3684" ph="{...}" />
-                <marker date="1490374326000" expanded="true" signature="3819:4124" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -76,14 +55,10 @@
       <file leaf-file-name="led_strip.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/led_strip.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="87" lean-forward="false" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
+            <state relative-caret-position="408">
+              <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
               <folding>
-                <marker date="1492728007000" expanded="true" signature="57:186" ph="..." />
-                <marker date="1492728007000" expanded="true" signature="347:482" ph="{...}" />
-                <marker date="1492728007000" expanded="true" signature="541:669" ph="{...}" />
-                <marker date="1492728007000" expanded="true" signature="736:787" ph="{...}" />
-                <marker date="1492728007000" expanded="true" signature="861:1160" ph="{...}" />
+                <element signature="e#48#70#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,13 +67,10 @@
       <file leaf-file-name="Adafruit_NeoPixel.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Adafruit_NeoPixel-master/Adafruit_NeoPixel.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2580">
+            <state relative-caret-position="438">
               <caret line="172" column="2" lean-forward="false" selection-start-line="172" selection-start-column="2" selection-end-line="172" selection-end-column="2" />
               <folding>
-                <marker date="1490374326000" expanded="false" signature="922:942" ph="..." />
-                <marker date="1490374326000" expanded="false" signature="5200:5230" ph="..." />
-                <marker date="1490374326000" expanded="true" signature="5263:7108" ph="{...}" />
-                <marker date="1490374326000" expanded="true" signature="6987:7098" ph="..." />
+                <element signature="e#6987#7098#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,8 +81,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/led_strip.cpp" />
         <option value="$PROJECT_DIR$/led_strip.h" />
+        <option value="$PROJECT_DIR$/led_strip.cpp" />
       </list>
     </option>
   </component>
@@ -389,18 +361,17 @@
       <workItem from="1492556154256" duration="805000" />
       <workItem from="1492708491539" duration="890000" />
       <workItem from="1492727552757" duration="778000" />
-      <workItem from="1492728343907" duration="575000" />
+      <workItem from="1492728343907" duration="2069000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6312000" />
+    <option name="totallyTimeSpent" value="7806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="809" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -452,18 +423,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1490374326000" expanded="false" signature="48:70" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="1009:1315" ph="{...}" />
-            <marker date="1490374326000" expanded="false" signature="1147:1202" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="1329:1865" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="1958:2079" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2108:2290" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2401:2651" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2730:3143" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="3236:3684" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="3819:4124" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -472,11 +432,7 @@
         <state relative-caret-position="450">
           <caret line="30" column="87" lean-forward="false" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
           <folding>
-            <marker date="1492728007000" expanded="true" signature="57:186" ph="..." />
-            <marker date="1492728007000" expanded="true" signature="347:482" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="541:669" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="736:787" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="861:1160" ph="{...}" />
+            <element signature="e#48#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -486,10 +442,7 @@
         <state relative-caret-position="2580">
           <caret line="172" column="2" lean-forward="false" selection-start-line="172" selection-start-column="2" selection-end-line="172" selection-end-column="2" />
           <folding>
-            <marker date="1490374326000" expanded="false" signature="922:942" ph="..." />
-            <marker date="1490374326000" expanded="false" signature="5200:5230" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="5263:7108" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="6987:7098" ph="..." />
+            <element signature="e#6987#7098#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -533,18 +486,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1490374326000" expanded="false" signature="48:70" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="1009:1315" ph="{...}" />
-            <marker date="1490374326000" expanded="false" signature="1147:1202" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="1329:1865" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="1958:2079" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2108:2290" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2401:2651" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2730:3143" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="3236:3684" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="3819:4124" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -553,10 +495,7 @@
         <state relative-caret-position="2580">
           <caret line="172" column="2" lean-forward="false" selection-start-line="172" selection-start-column="2" selection-end-line="172" selection-end-column="2" />
           <folding>
-            <marker date="1490374326000" expanded="false" signature="922:942" ph="..." />
-            <marker date="1490374326000" expanded="false" signature="5200:5230" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="5263:7108" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="6987:7098" ph="..." />
+            <element signature="e#6987#7098#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -566,11 +505,7 @@
         <state relative-caret-position="615">
           <caret line="41" column="57" lean-forward="true" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
           <folding>
-            <marker date="1492728007000" expanded="true" signature="57:186" ph="..." />
-            <marker date="1492728007000" expanded="true" signature="347:482" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="541:669" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="736:787" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="861:1160" ph="{...}" />
+            <element signature="e#48#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -604,18 +539,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1490374326000" expanded="false" signature="48:70" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="1009:1315" ph="{...}" />
-            <marker date="1490374326000" expanded="false" signature="1147:1202" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="1329:1865" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="1958:2079" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2108:2290" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2401:2651" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2730:3143" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="3236:3684" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="3819:4124" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -624,10 +548,7 @@
         <state relative-caret-position="2580">
           <caret line="172" column="2" lean-forward="false" selection-start-line="172" selection-start-column="2" selection-end-line="172" selection-end-column="2" />
           <folding>
-            <marker date="1490374326000" expanded="false" signature="922:942" ph="..." />
-            <marker date="1490374326000" expanded="false" signature="5200:5230" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="5263:7108" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="6987:7098" ph="..." />
+            <element signature="e#6987#7098#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -637,11 +558,7 @@
         <state relative-caret-position="600">
           <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
-            <marker date="1492728007000" expanded="true" signature="57:186" ph="..." />
-            <marker date="1492728007000" expanded="true" signature="347:482" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="541:669" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="736:787" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="861:1160" ph="{...}" />
+            <element signature="e#48#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -676,11 +593,7 @@
         <state relative-caret-position="540">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
-            <marker date="1492728007000" expanded="true" signature="57:186" ph="..." />
-            <marker date="1492728007000" expanded="true" signature="347:482" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="541:669" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="736:787" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="861:1160" ph="{...}" />
+            <element signature="e#48#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -690,10 +603,7 @@
         <state relative-caret-position="2580">
           <caret line="172" column="2" lean-forward="false" selection-start-line="172" selection-start-column="2" selection-end-line="172" selection-end-column="2" />
           <folding>
-            <marker date="1490374326000" expanded="false" signature="922:942" ph="..." />
-            <marker date="1490374326000" expanded="false" signature="5200:5230" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="5263:7108" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="6987:7098" ph="..." />
+            <element signature="e#6987#7098#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -702,18 +612,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1490374326000" expanded="false" signature="48:70" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="1009:1315" ph="{...}" />
-            <marker date="1490374326000" expanded="false" signature="1147:1202" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="1329:1865" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="1958:2079" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2108:2290" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2401:2651" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2730:3143" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="3236:3684" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="3819:4124" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -740,25 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Adafruit_NeoPixel-master/examples/strandtest/strandtest.ino">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1490374326000" expanded="false" signature="48:70" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="1009:1315" ph="{...}" />
-            <marker date="1490374326000" expanded="false" signature="1147:1202" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="1329:1865" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="1958:2079" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2108:2290" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2401:2651" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="2730:3143" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="3236:3684" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="3819:4124" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/LEDSign.cbp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -773,37 +653,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/led_strip.cpp">
+    <entry file="file://$PROJECT_DIR$/Adafruit_NeoPixel-master/Adafruit_NeoPixel.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="87" lean-forward="false" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
+        <state relative-caret-position="438">
+          <caret line="172" column="2" lean-forward="false" selection-start-line="172" selection-start-column="2" selection-end-line="172" selection-end-column="2" />
           <folding>
-            <marker date="1492728007000" expanded="true" signature="57:186" ph="..." />
-            <marker date="1492728007000" expanded="true" signature="347:482" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="541:669" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="736:787" ph="{...}" />
-            <marker date="1492728007000" expanded="true" signature="861:1160" ph="{...}" />
+            <element signature="e#6987#7098#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Adafruit_NeoPixel-master/Adafruit_NeoPixel.h">
+    <entry file="file://$PROJECT_DIR$/Adafruit_NeoPixel-master/examples/strandtest/strandtest.ino">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2580">
-          <caret line="172" column="2" lean-forward="false" selection-start-line="172" selection-start-column="2" selection-end-line="172" selection-end-column="2" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/led_strip.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
           <folding>
-            <marker date="1490374326000" expanded="false" signature="922:942" ph="..." />
-            <marker date="1490374326000" expanded="false" signature="5200:5230" ph="..." />
-            <marker date="1490374326000" expanded="true" signature="5263:7108" ph="{...}" />
-            <marker date="1490374326000" expanded="true" signature="6987:7098" ph="..." />
+            <element signature="e#48#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/led_strip.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="174">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="e#82#101#0" expanded="true" />
           </folding>

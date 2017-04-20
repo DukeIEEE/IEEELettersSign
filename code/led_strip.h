@@ -7,6 +7,8 @@
 
 #include <iostream>
 #include "Arduino.h"
+#include "Adafruit_NeoPixel-master/Adafruit_NeoPixel.h"
+
 
 using namespace std;
 
@@ -22,6 +24,8 @@ public:
 
     void set_row_color(int row, int r, int g, int b);
 
+    void refresh_pixels();
+
     void IEEEdemo(int endrow, int rowsAlwaysOn, float time){
         time = time/(2 * endrow);
         for(int i = 1; i<=rowsAlwaysOn; i++){
@@ -34,7 +38,7 @@ public:
         for(int i = endrow-rowsAlwaysOn+1; i<=endrow; i++){
             decrease(i, time);
         }
-    }
+    };
 
     void increase(int row, float time){
         int value = 0;
@@ -44,7 +48,7 @@ public:
             value+=10;
             delay(increment);
         }
-    }
+    };
 
     void decrease(int row, float time){
         int value = 100;
@@ -54,12 +58,13 @@ public:
             value-=10;
             delay(increment);
         }
-    }
-    ;
+    };
 
 private:
 
-    void update_row(int rowIndex, int *rgb, int brightness);
+    void update_row(int rowIndex, int rgb[3], int brightness);
+
+
 
 
 };
