@@ -15,11 +15,16 @@ public:
 
     led_strip(int serial_pin);
 
-    void add_row(int row, int *indicies);
+    void add_row(int row, int *indices);
 
-    void set_row_state(int row, int state);
+    void set_row_brightness(int row, int state);
 
     void set_row_color(int row, int r, int g, int b);
+
+
+private:
+
+    void update_row(int rowIndex, int *rgb, int brightness);
 
 };
 
