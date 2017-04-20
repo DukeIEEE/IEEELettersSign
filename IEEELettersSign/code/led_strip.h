@@ -22,7 +22,7 @@ public:
     void set_row_color(int row, int r, int g, int b);
 
     void IEEEdemo(int endRow, int rowsAlwaysOn, float time){
-        time = time/2(*endrow);
+        time = time/(2(*endrow));
         for(int i = 1; i<=rowsAlwaysOn; i++){
             increase(i, time);
         }
@@ -35,9 +35,9 @@ public:
         }
     }
 
-    void increase(int row, int time){
+    void increase(int row, float time){
         int value = 0;
-        int increment = time*10;
+        float increment = time*10;
         while(value <= 100){
             set_row_state(row, value);
             value+=10;
@@ -45,9 +45,9 @@ public:
         }
     }
 
-    void decrease(int row, int time){
+    void decrease(int row, float time){
         int value = 100;
-        int increment = time*10;
+        float increment = time*10;
         while(value >= 0){
             set_row_state(row, value0;
             value-=10;
