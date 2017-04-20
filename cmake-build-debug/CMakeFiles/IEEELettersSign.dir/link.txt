@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/IEEELettersSign.dir/code/led_strip.cpp.o CMakeFiles/IEEELettersSign.dir/IEEELettersSign/code/led_strip.cpp.o  -o IEEELettersSign 

@@ -43,9 +43,11 @@
       <file leaf-file-name="led_strip.h" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/led_strip.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="87">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#82#101#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,8 +109,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/led_strip.h" />
         <option value="$PROJECT_DIR$/led_strip.cpp" />
+        <option value="$PROJECT_DIR$/led_strip.h" />
       </list>
     </option>
   </component>
@@ -387,12 +389,12 @@
       <workItem from="1492556154256" duration="805000" />
       <workItem from="1492708491539" duration="890000" />
       <workItem from="1492727552757" duration="778000" />
-      <workItem from="1492728343907" duration="203000" />
+      <workItem from="1492728343907" duration="575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5940000" />
+    <option name="totallyTimeSpent" value="6312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="809" extended-state="6" />
@@ -496,7 +498,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#82#101#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -519,7 +523,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding />
+          <folding>
+            <element signature="e#82#101#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -588,7 +594,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#82#101#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -657,7 +665,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#82#101#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -792,9 +802,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/led_strip.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="87">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#82#101#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
