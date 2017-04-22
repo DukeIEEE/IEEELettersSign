@@ -20,8 +20,10 @@ total = 0;
 
 drawLetter('I', 0.5, 0.5);
 drawLetter('E', 10.5, 0.5);
+drawLetter('E', 10.5, 0.5);
+drawLetter('E', 10.5, 0.5);
 
-console.log(total/12)
+console.log(total/1.25)
 
 document.getElementById('download').addEventListener("click", function() {
   initialize(); // run svg-crowbar
